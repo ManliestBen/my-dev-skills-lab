@@ -1,0 +1,17 @@
+body {
+    margin-top: 50%;
+    }
+
+.table {
+    width: 50%;
+    margin: auto;
+    }
+
+.title{
+    background-color: rgb(157, 194, 132);
+    color: white;
+}
+
+.button {
+    background-color: rgb(209, 109, 106)
+}
